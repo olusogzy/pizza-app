@@ -1,0 +1,10 @@
+
+
+.add-cart button {
+    background-color: rgb(255, 200, 0);
+    color: black;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: 1.4px black solid;
+    font-size: 13px;
+}

@@ -1,0 +1,35 @@
+.one-pizza {
+    padding: 150px 100px 0 100px;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    color: black;
+    font-size: 25px;
+}
+h1{
+    color: rgb(198, 146, 202);
+    font-size: 40px;
+}
+
+p{ 
+    color: black;
+}
+span {
+    color: black;
+    font-size: 13px;
+}
+
+.increment-div button {
+    border: 1px solid black;
+    color: black;
+    padding: 5px;
+}
+
+.increment-div button:hover {
+    background-color: black;
+    color: white;
+}

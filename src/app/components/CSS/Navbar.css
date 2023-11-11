@@ -1,0 +1,25 @@
+nav {
+    background-color: azure;
+    height: 70px;
+    padding: 0 30px;
+}
+
+h1 {
+    color: rgb(198, 146, 202);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+form input {
+    border: 1px rgb(198, 146, 202) solid;
+    width: 550px;
+    height: 30px;
+}
+
+form button {
+    color: rgb(198, 146, 202);
+}
+
+h2{
+    color: rgb(198, 146, 202);
+}
